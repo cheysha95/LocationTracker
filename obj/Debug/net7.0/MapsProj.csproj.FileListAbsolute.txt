@@ -1,0 +1,15 @@
+C:\Users\hyman\Source\CSharpTesting\MapsProj\bin\Debug\net7.0\MapsProj.exe
+C:\Users\hyman\Source\CSharpTesting\MapsProj\bin\Debug\net7.0\MapsProj.deps.json
+C:\Users\hyman\Source\CSharpTesting\MapsProj\bin\Debug\net7.0\MapsProj.runtimeconfig.json
+C:\Users\hyman\Source\CSharpTesting\MapsProj\bin\Debug\net7.0\MapsProj.dll
+C:\Users\hyman\Source\CSharpTesting\MapsProj\bin\Debug\net7.0\MapsProj.pdb
+C:\Users\hyman\Source\CSharpTesting\MapsProj\obj\Debug\net7.0\MapsProj.csproj.AssemblyReference.cache
+C:\Users\hyman\Source\CSharpTesting\MapsProj\obj\Debug\net7.0\MapsProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hyman\Source\CSharpTesting\MapsProj\obj\Debug\net7.0\MapsProj.AssemblyInfoInputs.cache
+C:\Users\hyman\Source\CSharpTesting\MapsProj\obj\Debug\net7.0\MapsProj.AssemblyInfo.cs
+C:\Users\hyman\Source\CSharpTesting\MapsProj\obj\Debug\net7.0\MapsProj.csproj.CoreCompileInputs.cache
+C:\Users\hyman\Source\CSharpTesting\MapsProj\obj\Debug\net7.0\MapsProj.dll
+C:\Users\hyman\Source\CSharpTesting\MapsProj\obj\Debug\net7.0\refint\MapsProj.dll
+C:\Users\hyman\Source\CSharpTesting\MapsProj\obj\Debug\net7.0\MapsProj.pdb
+C:\Users\hyman\Source\CSharpTesting\MapsProj\obj\Debug\net7.0\MapsProj.genruntimeconfig.cache
+C:\Users\hyman\Source\CSharpTesting\MapsProj\obj\Debug\net7.0\ref\MapsProj.dll
